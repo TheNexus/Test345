@@ -1,3 +1,3 @@
 Nothing
 
-Something new
+Something news
